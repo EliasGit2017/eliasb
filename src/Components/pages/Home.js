@@ -13,9 +13,9 @@ function Home () {
         <>
             <HeroSection />
             <Cards />
-            <Material />
+            {/* <Material />
             <Material2 />
-            <VideosEnd />
+            <VideosEnd /> */}
             <Footer />
         </>
     );

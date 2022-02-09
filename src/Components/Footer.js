@@ -45,22 +45,22 @@ function Footer() {
                 <div className="social-media-wrap">
                     <div className="footer-logo">
                         <Link to='/' className="social-logo">
-                            Mappy <i className='fab fa-grav' />
+                            Cooking Project <i className='fas fa-cocktail' />
                         </Link>
                     </div>
-                    <small className='website-rights'>Mappy 2021 No copyrights infringement allowed, it is ours and that's how we like it ;-)</small>
+                    <small className='website-rights'>Cooking Project 2021 No copyrights infringement allowed, it is ours and that's how we like it ;-)</small>
                     <div className="social-icons">
                         <Link className="social-icon-link facebook"
                             to='/'
                             target='_blank'
                             aria-label='Facebook'>
-                            <i className="fa fa-facebook-f" />
+                            <i className="fab fa-facebook-f" />
                         </Link>
                         <Link className="social-icon-link instagram"
                             to='/'
                             target='_blank'
                             aria-label='Instagram'>
-                            <i className="fa fa-instagram" />
+                            <i className="fab fa-instagram" />
                         </Link>
                     </div>
                 </div>

@@ -41,7 +41,7 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <a href='https://github.com/DamienLegros/IHMPROJECT' className='nav-links' onClick={closeMobileMenu}>
+                        <a href='https://drive.google.com/drive/folders/1sQvELvb02NurGShPUwRrFxNveezB7lF-?usp=sharing' className='nav-links' onClick={closeMobileMenu}>
                             Services
                         </a>
                     </li>

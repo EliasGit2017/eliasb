@@ -13,7 +13,7 @@ function Cards() {
                             src={process.env.PUBLIC_URL+"/images/lol.jpg"}
                             text="Check out the interview made by Fares"
                             label="Interviews"
-                            gotothis="https://github.com/DamienLegros/IHMPROJECT/tree/main/Interviews%20Damien"
+                            gotothis=""
                         />
                         <CardItem 
                             src={process.env.PUBLIC_URL+"/images/img-11.jpg"} 
