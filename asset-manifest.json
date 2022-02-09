@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ihm-cooking-project/static/css/main.7ce2d56c.css",
-    "main.js": "/ihm-cooking-project/static/js/main.51e64735.js",
+    "main.js": "/ihm-cooking-project/static/js/main.147c32db.js",
     "index.html": "/ihm-cooking-project/index.html",
     "main.7ce2d56c.css.map": "/ihm-cooking-project/static/css/main.7ce2d56c.css.map",
-    "main.51e64735.js.map": "/ihm-cooking-project/static/js/main.51e64735.js.map"
+    "main.147c32db.js.map": "/ihm-cooking-project/static/js/main.147c32db.js.map"
   },
   "entrypoints": [
     "static/css/main.7ce2d56c.css",
-    "static/js/main.51e64735.js"
+    "static/js/main.147c32db.js"
   ]
 }
