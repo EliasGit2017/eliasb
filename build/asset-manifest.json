@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elias-B/static/css/main.6e512453.css",
-    "main.js": "/elias-B/static/js/main.ff6a7a2f.js",
-    "index.html": "/elias-B/index.html",
-    "main.6e512453.css.map": "/elias-B/static/css/main.6e512453.css.map",
-    "main.ff6a7a2f.js.map": "/elias-B/static/js/main.ff6a7a2f.js.map"
+    "main.css": "/elias-b/static/css/main.6e512453.css",
+    "main.js": "/elias-b/static/js/main.9a42c14a.js",
+    "index.html": "/elias-b/index.html",
+    "main.6e512453.css.map": "/elias-b/static/css/main.6e512453.css.map",
+    "main.9a42c14a.js.map": "/elias-b/static/js/main.9a42c14a.js.map"
   },
   "entrypoints": [
     "static/css/main.6e512453.css",
-    "static/js/main.ff6a7a2f.js"
+    "static/js/main.9a42c14a.js"
   ]
 }
