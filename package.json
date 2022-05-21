@@ -1,6 +1,6 @@
 {
-  "homepage": "https://eliasgit2017.github.io/ihm-cooking-project/",
-  "name": "ihm-cooking-project",
+  "homepage": "https://eliasgit2017.github.io/elias-B/",
+  "name": "elias-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
