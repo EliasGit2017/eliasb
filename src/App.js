@@ -10,7 +10,7 @@ import SignUp from './Components/pages/SignUp'
 function App() {
   return (
     <>
-      <Router basename="/elias-b">
+      <Router basename="/eliasb">
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
