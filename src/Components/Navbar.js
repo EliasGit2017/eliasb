@@ -13,14 +13,14 @@ function Navbar() {
     const closeMobileMenu = () => setClick(false);
 
     const ShowButton = () => {
-        if(window.innerWidth <= 960) {
+        if (window.innerWidth <= 960) {
             setButton(false);
         } else {
             setButton(true);
         }
     };
 
-    useEffect(() => {ShowButton();}, []);
+    useEffect(() => { ShowButton(); }, []);
 
     window.addEventListener('resize', ShowButton);
 
@@ -29,28 +29,28 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        Elias' portfolio &nbsp; <i className="fas fa-cocktail"/>
+                        Elias' portfolio &nbsp; <i className="fas fa-cocktail" />
                     </Link>
-                <div className='menu-icon' onClick={handleClick}>
-                    <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
-                </div>
-                <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-                    <li className='nav-item'>
-                        <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                            Home
-                        </Link>
-                    </li>
-                    <li className='nav-item'>
-                        <a href='https://drive.google.com/drive/folders/1sQvELvb02NurGShPUwRrFxNveezB7lF-?usp=sharing' className='nav-links' onClick={closeMobileMenu}>
-                            Services
-                        </a>
-                    </li>
-                    {/*<li className='nav-item'>
+                    <div className='menu-icon' onClick={handleClick}>
+                        <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
+                    </div>
+                    <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+                        <li className='nav-item'>
+                            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+                                Home
+                            </Link>
+                        </li>
+                        <li className='nav-item'>
+                            <a href='https://www.linkedin.com/in/elias-b-73a478120/' rel="noreferrer" target="_blank" className='nav-links' onClick={closeMobileMenu}>
+                                <i className="fab fa-linkedin"/>
+                            </a>
+                        </li>
+                        {/*<li className='nav-item'>
                         <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
                             Monay
                         </Link>
     </li>*/}
-                </ul>
+                    </ul>
                 </div>
             </nav>
         </>
