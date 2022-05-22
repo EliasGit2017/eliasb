@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eliasb/static/css/main.6e512453.css",
+    "main.css": "/eliasb/static/css/main.fea0f946.css",
     "main.js": "/eliasb/static/js/main.47df8c77.js",
     "index.html": "/eliasb/index.html",
-    "main.6e512453.css.map": "/eliasb/static/css/main.6e512453.css.map",
+    "main.fea0f946.css.map": "/eliasb/static/css/main.fea0f946.css.map",
     "main.47df8c77.js.map": "/eliasb/static/js/main.47df8c77.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e512453.css",
+    "static/css/main.fea0f946.css",
     "static/js/main.47df8c77.js"
   ]
 }
