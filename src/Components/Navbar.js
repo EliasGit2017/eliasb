@@ -45,6 +45,16 @@ function Navbar() {
                                 <i className="fab fa-linkedin"/>
                             </a>
                         </li>
+                        <li className='nav-item'>
+                            <a href='https://github.com/EliasGit2017' rel="noreferrer" target="_blank" className='nav-links' onClick={closeMobileMenu}>
+                                <i className="fab fa-github"/>
+                            </a>
+                        </li>
+                        <li className='nav-item'>
+                            <a href='https://gitlab.com/Elias2049' rel="noreferrer" target="_blank" className='nav-links' onClick={closeMobileMenu}>
+                                <i className="fab fa-gitlab"/>
+                            </a>
+                        </li>
                         {/*<li className='nav-item'>
                         <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
                             Monay
