@@ -41,18 +41,6 @@ function Cards() {
                         />
                         {/* Improve this by adding new elements when available */}
 
-                        {/* <CardItem 
-                            src={process.env.PUBLIC_URL+"/images/img-13.jpg"}
-                            text="Check out the interview made by David"
-                            label="Interviews" 
-                            gotothis="https://drive.google.com/file/d/1UVL-AVT88ghu7F3p4kleHaPQg-xzQf3w/view?usp=sharing"
-                        />
-                        <CardItem 
-                            src={process.env.PUBLIC_URL+"/images/lost_dav.jpg"}
-                            text="Check out the interview made by Lorenzo"
-                            label="Interviews" 
-                            gotothis="https://drive.google.com/file/d/1gnyQHfrRKaAbh2w-a1LsuyhRkP0R8ruk/view?usp=sharing"
-                        /> */}
                     </ul>
                 </div>
             </div>
